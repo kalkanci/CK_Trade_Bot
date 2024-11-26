@@ -1,12 +1,12 @@
 # config.py
 
 # Binance API Bilgileri
-API_KEY = "DgeBLXrlCHWGWQ4kOD8nNYfqhsSWFqJzWXpMpIiUXKpUxfmGhCJU4kcC0aRf04Ji"
-API_SECRET = "ihXbNewTrSQcS4OC8NJJATDsXn7ksOKjKY5gaaF10ubtPars2URZGexiNuSjGCar"
+API_KEY = "."
+API_SECRET = "."
 
 # Telegram Bot Bilgileri
-TELEGRAM_TOKEN = "8116604755:AAHZKJ9OEvJDwkpSxK2LOpZm8m8RXMES2Oo"
-TELEGRAM_CHAT_ID = "546807193"
+TELEGRAM_TOKEN = "."
+TELEGRAM_CHAT_ID = "."
 
 # Trading Parametreleri
 INITIAL_BALANCE = 30  # USDT
