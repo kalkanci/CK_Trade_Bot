@@ -1,0 +1,9 @@
+python-binance==1.0.16
+pandas==1.5.3
+numpy==1.23.5
+tensorflow==2.12.0
+scikit-learn==1.2.2
+PyQt6==6.7.1
+PyQt6-Charts==6.7.1
+python-telegram-bot==13.7
+ta==0.10.2
